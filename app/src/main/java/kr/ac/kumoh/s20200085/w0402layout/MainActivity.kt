@@ -50,7 +50,7 @@ fun MyLinearLayout() {
                     .background(Color.Yellow)
                     .padding(8.dp)
             )
-            Text(text = "저는 권태연입니다",
+            Text(text = "권태연",
                 modifier = Modifier
                     .background(Color.Cyan)
                     .padding(8.dp)
